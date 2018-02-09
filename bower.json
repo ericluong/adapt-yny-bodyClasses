@@ -1,0 +1,17 @@
+{
+  "name": "adapt-yny-bodyClasses",
+  "version": "1.0.0",
+  "homepage": "",
+  "issues": "",
+  "framework": ">=2.0.18",
+  "displayName" : "Body Classes",
+  "extension" : "bodyClasses",
+  "description": "An extension to add classes to the <body> tag through a content object configuration",
+  "main": "/js/adapt-yny-bodyClasses.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3",
+  "targetAttribute": "_bodyClasses"
+}
